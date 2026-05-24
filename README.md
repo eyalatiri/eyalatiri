@@ -12,7 +12,7 @@ Data Science Engineering student at ESPRIT (2022–2027), specializing in LLM sy
 
 | Project | What it is |
 |---|---|
-| [ALIA — Multi-Agent Medical Sales Simulator](https://github.com/eyalatiri/alia-simulator) | Agentic AI platform simulating pharma sales interactions via a 3D avatar — multi-agent pipeline with RAG, compliance enforcement, and real-time stress analysis. Built with LangGraph, FastAPI, React. *(Proprietary — NDA)* |
+| [ALIA — Multi-Agent Medical Sales Simulator](https://github.com/eyalatiri/ALIA-Multi-Agent-Medical-Sales-Simulator.git) | Agentic AI platform simulating pharma sales interactions via a 3D avatar — multi-agent pipeline with RAG, compliance enforcement, and real-time stress analysis. Built with LangGraph, FastAPI, React. *(Proprietary — NDA)* |
 | [Neural Image Captioning with Visual Attention](https://github.com/eyalatiri/Neural-Image-Caption-Generation-with-Visual-Attention) | From-scratch reproduction of Show, Attend & Tell (Xu et al., ICML 2015) — soft & hard attention, 3 datasets, full error analysis |
 | [Clinical Decision Support — Breast Oncology](https://github.com/eyalatiri/breast_cancer) | Multi-modal ML system (clinical + radiomic data) for diagnosis & treatment response prediction |
 
