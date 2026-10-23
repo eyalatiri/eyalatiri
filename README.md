@@ -17,7 +17,7 @@ Data Science Engineering student at ESPRIT (2022–2027), specializing in LLM sy
 | [Clinical Decision Support — Breast Oncology](https://github.com/eyalatiri/breast_cancer) | Multi-modal ML system (clinical + radiomic data) for diagnosis & treatment response prediction |
 
 **Currently**
-- 🎓 4th year at ESPRIT (graduation 2027)
+- 🎓 5th year at ESPRIT (graduation 2027)
 - 📍 Tunis, Tunisia
 - 📬 eya.latiri@gmail.com
 
